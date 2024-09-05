@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.38.0
 pickle
-Pillow
-pandas
+Pillow==9.4.0
+pandas==2.1.4
